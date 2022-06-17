@@ -15,29 +15,29 @@ The linear regression test produced an intercept of -1.040e+02, suggesting that 
 
 Because of the small sample of MechCars tested, this test may not represent repeated results. AutosRUs may consider conducting multiple tests to compare results.  
 
-![Linear Regression Results]("https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/Linear_regression.png")
+![Linear Regression Results](https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/Linear_regression.png)
 
 
 ## Summary Statistics on Suspension Coils
 Upper Management of AutosRUs report that, the design specifications for the MechaCar suspension coils dictate that the variance must not exceed 100 pounds per square inch. Results for variance (62.29356) from our tests are within the specified range.The images below show the summary results for the sample of MechaCars tested.     
 
-![Total Summary Statistics]("https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/total_summary.png")
+![Total Summary Statistics](https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/total_summary.png)
 
 When tests were run by three lots of vehicles, Lots 1 and 2 both are well within the designated range. Lot 3 exceeds 100 pounds per square inch. This lot of vehicles is significanty impacting the average variance for the total sample population. AutoRUs upper mananagement will want to investigate further the vehicles in lot 3 to determine the reasons for the high calculations. 
 
-![Summary Statistics by Lot]("https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/lot_summary.png")
+![Summary Statistics by Lot](https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/lot_summary.png)
 
 
 ## T-tests on Suspension Coils
 T-tests were conducted on the total population and on each subset of the sample population (Lot 1, Lot 2 and Lot 3). All four T-tests show no statistical difference between the observed mean and the population mean. The images below provide the results for each T-test completed. 
 
-![Total Population T-test Results]("https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/total-t-test.png")
+![Total Population T-test Results](https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/total-t-test.png)
 
-![Lot 1 T-test Results]("https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/lot1_t-test.png")
+![Lot 1 T-test Results](https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/lot1_t-test.png)
 
-![Lot 2 T-test Results]("https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/lot2_t-test.png")
+![Lot 2 T-test Results](https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/lot2_t-test.png)
 
-![Lot 3 T-test Results]("https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/lot3_t-test.png")
+![Lot 3 T-test Results](https://github.com/KathleenYager/MechaCar_Statistical_Analysis/blob/main/Resources/lot3_t-test.png)
 
 The images above show that all T-tests are within two points of the population mean of 1500 psi.
 
